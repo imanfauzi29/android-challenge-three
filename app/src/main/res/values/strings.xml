@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">android challenge three</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="full_name">Full Name</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="or">OR</string>
+    <string name="telur">TELUR</string>
+    <string name="_1kg">1KG</string>
+    <string name="todo">TODO</string>
+    <string name="_30_12_2020_10_00">30-12-2020 10:00</string>
+    <string name="linkin_park_what_iv_e_done">Linkin Park - What Iv\'e Done</string>
+</resources>
